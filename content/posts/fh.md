@@ -1,0 +1,11 @@
+---
+title: "战马"
+date: 2025-12-14T08:29:00Z
+image: /images/posts/post-1.jpg
+categories: 
+  - misc1
+  - misc2
+draft: false
+---
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/asKQbk7AcJU" title="崔伟立原唱《战马》完整版 歌曲旋律优美，句句入耳入心超好听" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
